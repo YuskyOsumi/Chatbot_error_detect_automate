@@ -1,0 +1,2 @@
+# Chatbot_error_detect_automate
+ChatbotのエラーをログのCSVファイルから検知
